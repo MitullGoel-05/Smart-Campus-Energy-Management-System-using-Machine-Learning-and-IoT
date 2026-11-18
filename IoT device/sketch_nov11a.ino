@@ -2,7 +2,7 @@
 #include <ESP8266HTTPClient.h>
 
 const char* ssid = "Ananya";
-const char* password = "7078661270";
+const char* password = "";
 String serverName = "http://10.78.214.152:5000/iot";
 
 //String serverName = "http://192.168.211.152:5000/iot";
